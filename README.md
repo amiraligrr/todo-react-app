@@ -1,37 +1,38 @@
-Todo App (React + Vite)
+✅ Todo App
+React 19 • Redux Toolkit • Vite • Tailwind CSS
 
-A modern Todo application built with React 19, Redux Toolkit, Vite, and Tailwind CSS.
-This project focuses on clean architecture, scalable state management, and smooth UI animations.
+A modern Todo Application built with React 19 and Vite, focused on clean architecture, scalable state management, and smooth UI animations.
+This project is designed as a portfolio-level app to demonstrate modern React development practices.
 
-Live Preview:
-https://amiraligrr.ir/todo
+🔗 Live Demo
+👉 https://amiraligrr.ir/todo
 
-Note: The backend (json-server) is NOT running on the live demo.
-Only the Login page and main UI are accessible. Authentication and data persistence are disabled.
+⚠️ Important Note
+The backend (json-server) is not running on the live demo.
+Only the Login page and Main UI are accessible.
 
-Features
+✨ Features
 
-Authentication UI (Login page – demo only)
+🔐 Authentication UI (Login page – demo only)
 
-Task management structure (Add / Edit / Delete)
+📝 Task management structure (Add / Edit / Delete)
 
-Global state management with Redux Toolkit
+🧠 Global state management with Redux Toolkit
 
-Smooth animations using Framer Motion
+🎞 Smooth animations using Framer Motion
 
-Responsive design with Tailwind CSS
+🎨 Fully responsive UI with Tailwind CSS
 
-API-ready architecture using Axios
+🌐 API-ready structure using Axios
 
-Cookie handling with js-cookie
+🍪 Cookie management with js-cookie
 
-Client-side routing using React Router v7
+🧭 Client-side routing with React Router v7
 
-Clean and modern icons with Lucide React
+🧩 Clean and modern icons with Lucide React
 
-Tech Stack
-
-Frontend:
+🛠 Tech Stack
+🚀 Frontend
 
 React 19
 
@@ -53,64 +54,58 @@ Lucide React
 
 js-cookie
 
-Development Tools:
+🧰 Development Tools
 
 ESLint
 
 Vite Plugin React
 
-TypeScript type definitions for React and React DOM
+TypeScript types (React & React DOM)
 
-Installation and Setup
-
-Clone the repository
-
+📦 Installation & Setup
+1️⃣ Clone the repository
 git clone https://github.com/your-username/todo.git
 cd todo
 
-
-Install dependencies
-
+2️⃣ Install dependencies
 npm install
 
-
-Run development server
-
+3️⃣ Run the development server
 npm run dev
 
-
-Run mock backend (optional)
-
+4️⃣ Run mock backend (optional)
 npm run server
 
 
-The backend uses json-server and runs on http://localhost:3001
+The mock backend uses json-server
+and runs on: http://localhost:3001
 
-Available Scripts
-npm run dev
-npm run build
-npm run preview
-npm run lint
-npm run server
+📜 Available Scripts
+npm run dev       # Start development server
+npm run build     # Build for production
+npm run preview   # Preview production build
+npm run lint      # Run ESLint
+npm run server    # Run json-server backend
 
-Live Demo Limitations
+🚫 Live Demo Limitations
 
-No real authentication
+❌ No real authentication
 
-No backend API on live demo
+❌ No backend API connection
 
-UI and routing are fully accessible
+✅ UI & routing fully visible
 
-Main layout and animations are visible
+✅ Layout, animations, and design accessible
 
-To experience full functionality, run the project locally with json-server.
+For full functionality, run the project locally with json-server.
 
-Project Status
+📌 Project Status
 
-In Development
-This project is built as a portfolio-level application to demonstrate modern React practices.
+🟡 In Development
 
-Author
+This project is continuously evolving and serves as a showcase of modern React patterns, clean UI design, and scalable state management.
+
+👨‍💻 Author
 
 Amirali
-Website: https://amiraligrr.ir
+🌐 Website: https://amiraligrr.ir

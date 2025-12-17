@@ -51,7 +51,7 @@ A modern **Todo Application** built with **React 19** and **Vite**, designed to 
 
 ### 1️⃣ Clone repository
 ```bash
-git clone https://github.com/your-username/todo.git
+git clone https://github.com/amiraligrr/todo-react-app
 cd todo
 2️⃣ Install dependencies
 bash

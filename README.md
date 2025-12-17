@@ -94,3 +94,6 @@ Portfolio project demonstrating modern React patterns and clean UI design.
 👨‍💻 Author
 Amirali
 🌐 https://amiraligrr.ir
+```
+---
+### Thanks for reading Maid by Amirali Granmayeh
